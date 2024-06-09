@@ -25,12 +25,15 @@ FashionMNIST-NN-Optimization/
 
 # Running the Notebooks
 1. **Clone the repository**:
-```bash
-git clone https://github.com/yourusername/FashionMNIST-NN-Optimization.git
-cd FashionMNIST-NN-Optimization
-```
+  ```bash
+  git clone https://github.com/yourusername/FashionMNIST-NN-Optimization.git
+  cd FashionMNIST-NN-Optimization
+  ```
 
 2. **Open and run the notebooks**:
 
 Navigate to the notebooks directory and open the desired notebook to run.
 
+## Bibliography
+
+- Aurélien Géron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. 3rd Edition. O'Reilly Media, 2022.
