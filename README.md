@@ -8,6 +8,7 @@ This repository focuses on optimizing the classification of the Fashion MNIST da
 - Tuning hyperparameters with Keras Tuner.
 - Analyzing results using TensorBoard.
 
+# Repository Structure
 ```bash
 FashionMNIST-NN-Optimization/
 ├── notebooks/
