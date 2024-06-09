@@ -31,8 +31,7 @@ FashionMNIST-NN-Optimization/
   ```
 
 2. **Open and run the notebooks**:
-
-Navigate to the notebooks directory and open the desired notebook to run.
+  Navigate to the notebooks directory and open the desired notebook to run.
 
 ## Bibliography
 
