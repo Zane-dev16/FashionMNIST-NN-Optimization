@@ -1,2 +1,9 @@
 # FashionMNIST-NN-Optimization
-Optimization of Fashion MNIST Classification using Keras: Implementing Neural Networks, Hyperparameter Tuning with Keras Tuner, and Results Analysis with TensorBoard.
+
+## Overview
+
+This repository focuses on optimizing the classification of the Fashion MNIST dataset using neural networks. The project involves:
+
+- Creating neural networks using the Keras API in three different ways.
+- Tuning hyperparameters with Keras Tuner.
+- Analyzing results using TensorBoard.
