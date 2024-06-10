@@ -12,14 +12,13 @@ This repository focuses on optimizing the classification of the Fashion MNIST da
 ```bash
 FashionMNIST-NN-Optimization/
 ├── notebooks/
-│ ├── keras_api.ipynb # Neural networks 3 ways using Keras Sequential API
+│ ├── buiding_NNs.ipynb # Building a NN 3 different ways for customization using Keras Sequential API
 │ ├── hyperparameter_tuning.ipynb # Hyperparameter tuning with Keras Tuner
 ├── data/
-│ ├── fashion_mnist_data.csv # Dataset (if applicable)
+│ ├── fashion_mnist_data.csv # Dataset
 ├── models/ # Trained models
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 └── requirements.txt # Required packages and dependencies
 ```
 
