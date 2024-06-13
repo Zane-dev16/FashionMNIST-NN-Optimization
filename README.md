@@ -13,7 +13,7 @@ This repository focuses on optimizing the classification of the Fashion MNIST da
 FashionMNIST-NN-Optimization/
 ├── notebooks/
 │ ├── buiding_NNs.ipynb # Building a NN 3 different ways for customization using Keras Sequential API
-│ ├── hyperparameter_tuning.ipynb # Hyperparameter tuning with Keras Tuner
+│ ├── NN_tuning.ipynb # Hyperparameter tuning with Keras Tuner
 ├── data/
 │ ├── fashion_mnist_data.csv # Dataset
 ├── models/ # Trained models
