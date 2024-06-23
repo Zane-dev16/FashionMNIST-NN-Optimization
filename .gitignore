@@ -3,3 +3,4 @@ data/fashion_mnist_train.csv
 *logs/
 .venv
 checkpoints/*
+lr_tuned_checkpoints.weights.h5
