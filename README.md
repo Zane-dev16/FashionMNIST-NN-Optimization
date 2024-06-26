@@ -15,7 +15,7 @@ FashionMNIST-NN-Optimization/
 │ ├── buiding_NNs.ipynb # Building a NN 3 different ways for customization using Keras Sequential API
 │ ├── NN_tuning.ipynb # Hyperparameter tuning with Keras Tuner
 ├── data/
-│ ├── fashion_mnist_data.csv # Dataset
+│ ├── fashion_mnist_data.zip # Dataset
 ├── models/ # Trained models
 ├── README.md
 ├── .gitignore
